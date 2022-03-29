@@ -1,0 +1,179 @@
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\bin\Debug\flogin.exe.config
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\bin\Debug\flogin.exe
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\bin\Debug\flogin.pdb
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\quanlytrasua.csprojResolveAssemblyReference.cache
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\flogin.flogin.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\flogin.Properties.Resources.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\quanlytrasua.csproj.GenerateResource.Cache
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\flogin.exe
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\flogin.pdb
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\flogin.fmain.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\flogin.fadmin.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\flogin\obj\Debug\flogin.fthongtintaikhoan.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe.config
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.exe
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.pdb
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.pdb
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csprojResolveAssemblyReference.cache
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.GenerateResource.Cache
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fadmin.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.flogin.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmain.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmenu.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fthongtintaikhoan.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.Properties.Resources.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fOption.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fThongke.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fReport.resources
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.cache
+C:\Users\long\Desktop\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.compiled
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe.config
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.pdb
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fadmin.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.flogin.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmain.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmenu.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fOption.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fReport.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fThongke.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fthongtintaikhoan.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.Properties.Resources.resources
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.GenerateResource.Cache
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.cache
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.compiled
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.CoreCompileInputs.cache
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.exe
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.pdb
+C:\Users\QUOCHUNG\Desktop\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fadmin.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.flogin.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmain.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmenu.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fOption.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fReport.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fThongke.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fthongtintaikhoan.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.cache
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.compiled
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.exe
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.pdb
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe.config
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.pdb
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\USER\Desktop\New folder (2)\phần mềm trà sữa\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.CopyComplete
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe.config
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.exe
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.pdb
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.pdb
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fadmin.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.flogin.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmain.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmenu.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fOption.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fReport.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fThongke.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fthongtintaikhoan.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.Properties.Resources.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.GenerateResource.Cache
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x64\msvcr100.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x64\SqlServerSpatial110.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x86\msvcr100.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x86\SqlServerSpatial110.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.cache
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.compiled
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fThanhtoan.resources
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csprojResolveAssemblyReference.cache
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Database1.mdf
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Database1_log.ldf
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe.manifest
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.application
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.exe.manifest
+C:\Users\long\Desktop\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.application
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x64\msvcr100.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x64\SqlServerSpatial110.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x86\msvcr100.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x86\SqlServerSpatial110.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe.config
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe.manifest
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.application
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.exe
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\flogin.pdb
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\EnvDTE.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\EnvDTE80.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\stdole.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\VSLangProj.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\VSLangProj80.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\VSLangProj2.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fadmin.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.flogin.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmain.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fmenu.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fOption.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fReport.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fThanhtoan.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fThongke.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.fthongtintaikhoan.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.cache
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\RdlCompile.compiled
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.exe.manifest
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.application
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csproj.CopyComplete
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.exe
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\flogin.pdb
+C:\Users\USER\Desktop\New folder (9)\phần mềm trà sữa (1)\phần mềm trà sữa\quản lý trà sữa\quanlytrasua\obj\Debug\quanlytrasua.csprojAssemblyReference.cache

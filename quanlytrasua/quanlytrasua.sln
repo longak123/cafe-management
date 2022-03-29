@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanlytrasua", "quanlytrasua.csproj", "{EDC6CED2-CBF8-4F89-A626-A2FE7ABDA092}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Trà Sữa", "..\Trà Sữa\Trà Sữa.aiproj", "{E774593D-71EB-43E7-B950-52035DED3037}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cài Đặt", "..\Cài Đặt\Cài Đặt.vdproj", "{29C1AF3C-E062-4C53-8DD1-FDD690D4F020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC6CED2-CBF8-4F89-A626-A2FE7ABDA092}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC6CED2-CBF8-4F89-A626-A2FE7ABDA092}.All|Any CPU.Build.0 = Release|Any CPU
+		{EDC6CED2-CBF8-4F89-A626-A2FE7ABDA092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC6CED2-CBF8-4F89-A626-A2FE7ABDA092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC6CED2-CBF8-4F89-A626-A2FE7ABDA092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC6CED2-CBF8-4F89-A626-A2FE7ABDA092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E774593D-71EB-43E7-B950-52035DED3037}.All|Any CPU.ActiveCfg = DefaultBuild
+		{E774593D-71EB-43E7-B950-52035DED3037}.All|Any CPU.Build.0 = DefaultBuild
+		{E774593D-71EB-43E7-B950-52035DED3037}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{E774593D-71EB-43E7-B950-52035DED3037}.Debug|Any CPU.Build.0 = DefaultBuild
+		{E774593D-71EB-43E7-B950-52035DED3037}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{E774593D-71EB-43E7-B950-52035DED3037}.Release|Any CPU.Build.0 = DefaultBuild
+		{29C1AF3C-E062-4C53-8DD1-FDD690D4F020}.All|Any CPU.ActiveCfg = Release
+		{29C1AF3C-E062-4C53-8DD1-FDD690D4F020}.Debug|Any CPU.ActiveCfg = Debug
+		{29C1AF3C-E062-4C53-8DD1-FDD690D4F020}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C55DC8C2-7427-4DC0-B7AE-2F42FC7798F5}
+	EndGlobalSection
+EndGlobal
